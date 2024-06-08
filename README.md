@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 ## About
 
----
-
 - Fullstack-Developer
 - Enthusiastic Reverse Engineer
+---
 
 ## Skills
 
