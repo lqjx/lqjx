@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm daydream
+Me love coding.
+- Currently invested malware dev and cryptography.
 
 ## About
-I actively use and learn C++, C and ASM. I fucking hate JS/TS even tho I use it for my website. Still a trash language.
+I actively use and learn C++, C and ASM. I fucking hate JS/TS even tho I use it for my website. Still a trash language. Fuck you Brendan Eich, even my fucking pea-sized brain could come up with a better designed language.
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lqjx&layout=compact)
