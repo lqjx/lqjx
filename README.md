@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ## About
-Hello, it's me, 1, 2, 3
+# daydream
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lqjx&layout=compact)
