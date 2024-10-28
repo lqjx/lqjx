@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm daydream
 Me love coding.
-- Currently invested malware dev and cryptography.
+- Currently invested malware dev / reverse engineering and cryptography.
 - Sometimes doing some funny small game dev as well.
 
 ## About
