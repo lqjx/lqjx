@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 # Hi, I'm daydream
 Me love coding.
 - Currently invested malware dev and cryptography.
+- Sometimes doing some funny small game dev as well.
 
 ## About
 I actively use and learn C++, C and ASM. I fucking hate JS/TS even tho I use it for my website. Still a trash language. Fuck you Brendan Eich, even my fucking pea-sized brain could come up with a better designed language.
