@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 # Hi, I'm daydream
 
 ## About
-
+I actively use and learn C++, C and ASM. I fucking hate JS/TS even tho I use it for my website. Still a trash language.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lqjx&layout=compact)
